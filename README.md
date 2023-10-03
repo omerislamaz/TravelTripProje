@@ -15,22 +15,25 @@ Yetkili kullanıcıların içeriklerin kontrol ve denetimini dinamik olarak sağ
 * IEnumerable ile bir view içerisinde birden fazla veriyi çekme
 
 
-## Screenshots
-
-## Ekran Resmi-1
+## Screenshots-1
 <a href="https://ibb.co/r7BhcRp"><img src="https://i.ibb.co/6nKS17t/4.jpg" alt="4" border="0"></a>
 
-## Ekran Resmi-2
+
+## Screenshots-2
 <a href="https://ibb.co/fXsW7Br"><img src="https://i.ibb.co/6ykS5VD/5.jpg" alt="5" border="0"></a>
 
-## Ekran Resmi-3
+
+## Screenshots-3
 <a href="https://ibb.co/X5LgrXr"><img src="https://i.ibb.co/Smy84N4/6.jpg" alt="6" border="0"></a>
 
-## Ekran Resmi-4
+
+## Screenshots-4
 <a href="https://ibb.co/6w2GfGV"><img src="https://i.ibb.co/F39cjcN/1.jpg" alt="1" border="0"></a>
 
-## Ekran Resmi-5
+
+## Screenshots-5
 <a href="https://ibb.co/p2x2CML"><img src="https://i.ibb.co/cJ1JzZr/2.jpg" alt="2" border="0"></a>
 
-## Ekran Resmi-6
+
+## Screenshots-6
 <a href="https://ibb.co/5LTVZMs"><img src="https://i.ibb.co/7KvFhYr/3.jpg" alt="3" border="0"></a>
